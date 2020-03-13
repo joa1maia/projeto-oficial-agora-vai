@@ -3220,7 +3220,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pooledObject: {fileID: 5179123588122060080, guid: 50deef60016b1024b876577f82f44832,
     type: 3}
-  pooledAmount: 20
+  pooledAmount: 30
   willdrow: 0
 --- !u!4 &1453376500
 Transform:
