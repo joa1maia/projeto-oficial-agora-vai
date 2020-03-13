@@ -37,6 +37,7 @@ public class HitPlayer : MonoBehaviour
             }
             _manageCenario2.MenuControl2.posresp = PosrespwPref;          
             _manageCenario2.MenuControl2.ChamarMenuVida(true);
+            _manageCenario2.somHitPerson.Play();
 
 
         }
@@ -45,6 +46,7 @@ public class HitPlayer : MonoBehaviour
 
             ControlInimigo2.StatusMorte(true);
             gameObject.GetComponent<HitPlayer>().gameObject.SetActive(false);
+            _manageCenario2.somHitInimigo.Play();
 
         }
     }

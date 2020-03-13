@@ -19,7 +19,7 @@ public class FireControl : MonoBehaviour
     {
         if (Input.GetMouseButton(0) && _manageCenario2.Player.GetComponent<UnityStandardAssets._2D.Platformer2DUserControl>().enabled)
         {
-;
+          
             Fire();
         }
     }
@@ -31,6 +31,7 @@ public class FireControl : MonoBehaviour
             obj.transform.position = fireposition.position;
             obj.transform.rotation = fireposition.rotation;
             obj.SetActive(true);
+            _manageCenario2.somTiro.Play();
         }
   
 

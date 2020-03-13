@@ -26,6 +26,18 @@ public class ManageCenario : MonoBehaviour
     public MenuControl MenuControl2;
     public GameObject Player;
     public Transform posTiro;
+    public AudioSource somTiro;
+    public AudioSource somPulo;
+    public AudioSource somHitPerson;
+    public AudioSource somHitInimigo;
+    public AudioSource somPanelVoltarGame;
+    public AudioSource somPanelgameover;
+    public AudioSource somPassagemLevel;
+    public AudioSource somPegarintem;
+    public AudioSource somTeletranpornte;
+
+    public UnityStandardAssets._2D.PlatformerCharacter2D UnityStandardAssets2d;
+
 
 
     void Start()
@@ -33,12 +45,16 @@ public class ManageCenario : MonoBehaviour
 
         Calculodistanciaplataforma();
         Gerarplataformas(_plataformasL1.Count);
+        UnityStandardAssets2d = Player.GetComponent<UnityStandardAssets._2D.PlatformerCharacter2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-
+        if (UnityStandardAssets2d.checkpulo)
+        {
+            somPulo.Play();
+        }
     }
 
     void Calculodistanciaplataforma()// calcula distanacia entre a primeira e a segunda plataforma

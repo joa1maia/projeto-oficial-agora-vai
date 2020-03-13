@@ -20,6 +20,7 @@ public class PontoControl : MonoBehaviour
         {
             _manageCenario2.QuantPontos++;
             _manageCenario2.MenuControl2.numPontos.text =""+ _manageCenario2.QuantPontos.ToString("D3");
+            _manageCenario2.somPegarintem.Play();
             sair();
         }
     }

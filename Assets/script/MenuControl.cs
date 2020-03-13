@@ -52,6 +52,7 @@ public class MenuControl : MonoBehaviour
     public IEnumerator OnLevel()
     {
         panelLevel.transform.localScale = new Vector3(0, 0, 0);
+        _manageCenario2.somPassagemLevel.Play();
         textLevel.text = "Level " + _manageCenario2._levelgame;
         panelLevel.transform.DOScale(1, 0.3f);
         yield return new WaitForSeconds(2f);
@@ -106,6 +107,8 @@ public class MenuControl : MonoBehaviour
 
             if (!gameOver)
             {
+                
+                _manageCenario2.somPanelVoltarGame.Play();
                 for (int i = 0; i < menuChance.Length; i++)
                 {
                     menuChance[i].transform.DOScale(1.2f, .25f);
@@ -123,6 +126,7 @@ public class MenuControl : MonoBehaviour
             }
             else
             {
+                _manageCenario2.somPanelgameover.Play();
                 for (int i = 0; i < menuChance.Length; i++)
                 {
                     menuChance[i].transform.DOScale(1.2f, .25f);
@@ -149,6 +153,7 @@ public class MenuControl : MonoBehaviour
 
                 }
             }
+            _manageCenario2.somTeletranpornte.Play();
             for (int i = 0; i < menuChance.Length; i++)
             {
                 yield return new WaitForSeconds(.20f);
@@ -156,6 +161,7 @@ public class MenuControl : MonoBehaviour
             }
             backgroundMenu.GetComponent<Image>().DOFade(0f, 0.2f);
             yield return new WaitForSeconds(.20f);
+          
             _manageCenario2.Player.transform.position = posresp.position;
             yield return new WaitForSeconds(.20f);
             _manageCenario2.Player.GetComponent<UnityStandardAssets._2D.Platformer2DUserControl>().enabled = true;
@@ -168,6 +174,7 @@ public class MenuControl : MonoBehaviour
             _manageCenario2.Player.GetComponent<Rigidbody2D>().isKinematic = false;
             _manageCenario2.Player.GetComponent<BoxCollider2D>().enabled = true;
             _manageCenario2.Player.GetComponent<CircleCollider2D>().enabled = true;
+           
             yield return new WaitForSeconds(.20f);
             menuChance[0].SetActive(false);
 
