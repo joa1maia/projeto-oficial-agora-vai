@@ -1,0 +1,4966 @@
+fileFormatVersion: 2
+guid: 75bf464b2109785459af57033403b9fb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7662061215565674857
+    second: 1mago_0
+  - first:
+      213: 5043826954996117888
+    second: 1mago_1
+  - first:
+      213: 9158399028883264384
+    second: 1mago_2
+  - first:
+      213: -2439003562965094802
+    second: 1mago_3
+  - first:
+      213: -6350905356475188495
+    second: 1mago_4
+  - first:
+      213: 5890288254928715941
+    second: 1mago_5
+  - first:
+      213: -4351036620415140063
+    second: 1mago_6
+  - first:
+      213: 6324623342505776538
+    second: 1mago_7
+  - first:
+      213: 5229111909633985593
+    second: 1mago_8
+  - first:
+      213: -2292960875349539763
+    second: 1mago_9
+  - first:
+      213: -1421670486030530306
+    second: 1mago_10
+  - first:
+      213: -3699204701576906148
+    second: 1mago_11
+  - first:
+      213: -8969748393879573452
+    second: 1mago_12
+  - first:
+      213: -6279026098224646822
+    second: 1mago_13
+  - first:
+      213: 2902726653899402946
+    second: 1mago_14
+  - first:
+      213: -2985956202346894023
+    second: 1mago_15
+  - first:
+      213: -3310986176346972011
+    second: 1mago_16
+  - first:
+      213: -8231870485937513523
+    second: 1mago_17
+  - first:
+      213: 37321673227347882
+    second: 1mago_18
+  - first:
+      213: -7081232338220981673
+    second: 1mago_19
+  - first:
+      213: 2243151707568672606
+    second: 1mago_20
+  - first:
+      213: -6216044956311193272
+    second: 1mago_21
+  - first:
+      213: -9096993690788473368
+    second: 1mago_22
+  - first:
+      213: 1911936326513901463
+    second: 1mago_23
+  - first:
+      213: -1259878434627980413
+    second: 1mago_24
+  - first:
+      213: -3171376155963655722
+    second: 1mago_25
+  - first:
+      213: -2683879955735565953
+    second: 1mago_26
+  - first:
+      213: 7836663810129249260
+    second: 1mago_27
+  - first:
+      213: -8921082553899331135
+    second: 1mago_28
+  - first:
+      213: -3774391182756733730
+    second: 1mago_29
+  - first:
+      213: 4140229934210614651
+    second: 1mago_30
+  - first:
+      213: 4636246464282523106
+    second: 1mago_31
+  - first:
+      213: -8258950816302945965
+    second: 1mago_32
+  - first:
+      213: 7806724939845158133
+    second: 1mago_33
+  - first:
+      213: -420628758605434888
+    second: 1mago_34
+  - first:
+      213: 6013312137965579444
+    second: 1mago_35
+  - first:
+      213: 8595520967034594862
+    second: 1mago_36
+  - first:
+      213: -6538343540857930241
+    second: 1mago_37
+  - first:
+      213: 1320800947468980984
+    second: 1mago_38
+  - first:
+      213: -1877490349102443910
+    second: 1mago_39
+  - first:
+      213: -714446063721988221
+    second: 1mago_40
+  - first:
+      213: -6717959984097534221
+    second: 1mago_41
+  - first:
+      213: 5718934121618690686
+    second: 1mago_42
+  - first:
+      213: -9116153106302657236
+    second: 1mago_43
+  - first:
+      213: 4465596883729978749
+    second: 1mago_44
+  - first:
+      213: -6195010416608217269
+    second: 1mago_45
+  - first:
+      213: -1932091261968544153
+    second: 1mago_46
+  - first:
+      213: 3479347595492484640
+    second: 1mago_47
+  - first:
+      213: -8011958667302028352
+    second: 1mago_48
+  - first:
+      213: -7021122388059252514
+    second: 1mago_49
+  - first:
+      213: 2766165782680404277
+    second: 1mago_50
+  - first:
+      213: 6995098937741146295
+    second: 1mago_51
+  - first:
+      213: -6983316243008851101
+    second: 1mago_52
+  - first:
+      213: 8451482374850005978
+    second: 1mago_53
+  - first:
+      213: 8402040288078382733
+    second: 1mago_54
+  - first:
+      213: -8162570549541028413
+    second: 1mago_55
+  - first:
+      213: 2822890729686650726
+    second: 1mago_56
+  - first:
+      213: 3602743716044114914
+    second: 1mago_57
+  - first:
+      213: 8342190475156295028
+    second: 1mago_58
+  - first:
+      213: -3600933219490710249
+    second: 1mago_59
+  - first:
+      213: -2363332167714624151
+    second: 1mago_60
+  - first:
+      213: -5185808548800586886
+    second: 1mago_61
+  - first:
+      213: 441368432613558858
+    second: 1mago_62
+  - first:
+      213: 6293526273015011026
+    second: 1mago_63
+  - first:
+      213: 4149565356362456798
+    second: 1mago_64
+  - first:
+      213: 7504029620658515981
+    second: 1mago_65
+  - first:
+      213: -222304653586430287
+    second: 1mago_66
+  - first:
+      213: 3519963737792352989
+    second: 1mago_67
+  - first:
+      213: 6299845446005639370
+    second: 1mago_68
+  - first:
+      213: -2587921458698659487
+    second: 1mago_69
+  - first:
+      213: -2870123483043049112
+    second: 1mago_70
+  - first:
+      213: 6671492892818255845
+    second: 1mago_71
+  - first:
+      213: -4047535012246967611
+    second: 1mago_72
+  - first:
+      213: 4615897119868777349
+    second: 1mago_73
+  - first:
+      213: 3282458424764028877
+    second: 1mago_74
+  - first:
+      213: -8316096736921286030
+    second: 1mago_75
+  - first:
+      213: -3713084711978330183
+    second: 1mago_76
+  - first:
+      213: -1180027349359402129
+    second: 1mago_77
+  - first:
+      213: -2580462675081642186
+    second: 1mago_78
+  - first:
+      213: 1763362262510449712
+    second: 1mago_79
+  - first:
+      213: 6489046641693764481
+    second: 1mago_80
+  - first:
+      213: 3181456128727610592
+    second: 1mago_81
+  - first:
+      213: 310969521607394151
+    second: 1mago_82
+  - first:
+      213: -4794896212545162723
+    second: 1mago_83
+  - first:
+      213: -8360508562064341345
+    second: 1mago_84
+  - first:
+      213: -7076096933285110184
+    second: 1mago_85
+  - first:
+      213: 1214945102243728490
+    second: 1mago_86
+  - first:
+      213: 8206157807090357020
+    second: 1mago_87
+  - first:
+      213: -8710299792002699554
+    second: 1mago_88
+  - first:
+      213: -894147148616378665
+    second: 1mago_89
+  - first:
+      213: 5262023331775713890
+    second: 1mago_90
+  - first:
+      213: 1023732736575633666
+    second: 1mago_91
+  - first:
+      213: 7594034072382942918
+    second: 1mago_92
+  - first:
+      213: -7889629765988712772
+    second: 1mago_93
+  - first:
+      213: 8633304053826422371
+    second: 1mago_94
+  - first:
+      213: -4432684188732163247
+    second: 1mago_95
+  - first:
+      213: -3682917098224395149
+    second: 1mago_96
+  - first:
+      213: 8220178747905831699
+    second: 1mago_97
+  - first:
+      213: 848214827308267243
+    second: 1mago_98
+  - first:
+      213: 7383630415732496132
+    second: 1mago_99
+  - first:
+      213: 3755545445349723267
+    second: 1mago_100
+  - first:
+      213: -4847553359107632794
+    second: 1mago_101
+  - first:
+      213: -220854968769474887
+    second: 1mago_102
+  - first:
+      213: 4006946423171840055
+    second: 1mago_103
+  - first:
+      213: 5482858162883114894
+    second: 1mago_104
+  - first:
+      213: -4333479696445043725
+    second: 1mago_105
+  - first:
+      213: 8096243005938885849
+    second: 1mago_106
+  - first:
+      213: -7546705629882651124
+    second: 1mago_107
+  - first:
+      213: 6490527069908712350
+    second: 1mago_108
+  - first:
+      213: -415517871292487721
+    second: 1mago_109
+  - first:
+      213: -7078553445681193380
+    second: 1mago_110
+  - first:
+      213: -7466745271473348990
+    second: 1mago_111
+  - first:
+      213: 205368755749647537
+    second: 1mago_112
+  - first:
+      213: 1389892019339206247
+    second: 1mago_113
+  - first:
+      213: 5830745086098715387
+    second: 1mago_114
+  - first:
+      213: -4149701085683977744
+    second: 1mago_115
+  - first:
+      213: 2420880817959225112
+    second: 1mago_116
+  - first:
+      213: -1213027387989873325
+    second: 1mago_117
+  - first:
+      213: 7060468797313316173
+    second: 1mago_118
+  - first:
+      213: -2981295436527639460
+    second: 1mago_119
+  - first:
+      213: -8047533055312733061
+    second: 1mago_120
+  - first:
+      213: -6566729298757674780
+    second: 1mago_121
+  - first:
+      213: -8148542787307860978
+    second: 1mago_122
+  - first:
+      213: -8750353256807593387
+    second: 1mago_123
+  - first:
+      213: -4412632728624052836
+    second: 1mago_124
+  - first:
+      213: -83550589025817346
+    second: 1mago_125
+  - first:
+      213: 7745617291577381269
+    second: 1mago_126
+  - first:
+      213: 6011095326313961722
+    second: 1mago_127
+  - first:
+      213: 2830295960854715670
+    second: 1mago_128
+  - first:
+      213: -1708168755963175282
+    second: 1mago_129
+  - first:
+      213: 56344190069740687
+    second: 1mago_130
+  - first:
+      213: 2978728989458370763
+    second: 1mago_131
+  - first:
+      213: -2368654453570992694
+    second: 1mago_132
+  - first:
+      213: -2558616904189386971
+    second: 1mago_133
+  - first:
+      213: 7260189117007598019
+    second: 1mago_134
+  - first:
+      213: 7091191911765266683
+    second: 1mago_135
+  - first:
+      213: 1670390789047061108
+    second: 1mago_136
+  - first:
+      213: 1592022381234234173
+    second: 1mago_137
+  - first:
+      213: -2548529789201197480
+    second: 1mago_138
+  - first:
+      213: 6086371155892389320
+    second: 1mago_139
+  - first:
+      213: -7788523914155079340
+    second: 1mago_140
+  - first:
+      213: 1783984350907043056
+    second: 1mago_141
+  - first:
+      213: 3492155865448898829
+    second: 1mago_142
+  - first:
+      213: -3724970337513491955
+    second: 1mago_143
+  - first:
+      213: -200950478245686032
+    second: 1mago_144
+  - first:
+      213: -8778914449259187234
+    second: 1mago_145
+  - first:
+      213: 8936943461908290231
+    second: 1mago_146
+  - first:
+      213: 6756069603282982053
+    second: 1mago_147
+  - first:
+      213: 7908963220757162762
+    second: 1mago_148
+  - first:
+      213: 2566924519522994063
+    second: 1mago_149
+  - first:
+      213: -8007657389923312620
+    second: 1mago_150
+  - first:
+      213: -7732125584638883270
+    second: 1mago_151
+  - first:
+      213: 1087644607214026735
+    second: 1mago_152
+  - first:
+      213: -1490508493198547487
+    second: 1mago_153
+  - first:
+      213: 1582529885817787711
+    second: 1mago_154
+  - first:
+      213: 1885710250932216905
+    second: 1mago_155
+  - first:
+      213: 7978197432546710784
+    second: 1mago_156
+  - first:
+      213: -3599270294201487800
+    second: 1mago_157
+  - first:
+      213: 4422285074542073134
+    second: 1mago_158
+  - first:
+      213: -3543316365558447000
+    second: 1mago_159
+  - first:
+      213: -2218805021737949938
+    second: 1mago_160
+  - first:
+      213: -5170690425418111189
+    second: 1mago_161
+  - first:
+      213: 9187926601239640813
+    second: 1mago_162
+  - first:
+      213: 4373634048939409298
+    second: 1mago_163
+  - first:
+      213: 1112671292808687406
+    second: 1mago_164
+  - first:
+      213: -3006758738970625369
+    second: 1mago_165
+  - first:
+      213: 2131174941981302481
+    second: 1mago_166
+  - first:
+      213: -6686188953841972525
+    second: 1mago_167
+  - first:
+      213: -7775373350617677318
+    second: 1mago_168
+  - first:
+      213: 8159666052254590359
+    second: 1mago_169
+  - first:
+      213: -3384138829847193210
+    second: 1mago_170
+  - first:
+      213: 1880981297628782191
+    second: 1mago_171
+  - first:
+      213: 5609257792408668748
+    second: 1mago_172
+  - first:
+      213: -4902921102416343686
+    second: 1mago_173
+  - first:
+      213: -7141270536598914702
+    second: 1mago_174
+  - first:
+      213: 3509925818407669852
+    second: 1mago_175
+  - first:
+      213: 2601485222881320503
+    second: 1mago_176
+  - first:
+      213: -3886771872069854397
+    second: 1mago_177
+  - first:
+      213: 6112071583823770643
+    second: 1mago_178
+  - first:
+      213: -5441887583379960680
+    second: 1mago_179
+  - first:
+      213: -3184016216255555072
+    second: 1mago_180
+  - first:
+      213: 2426200712868972038
+    second: 1mago_181
+  - first:
+      213: -1972635037822792085
+    second: 1mago_182
+  - first:
+      213: 2164584598921305414
+    second: 1mago_183
+  - first:
+      213: -1617982910379078337
+    second: 1mago_184
+  - first:
+      213: 3993101432565181263
+    second: 1mago_185
+  - first:
+      213: 2471512818198432245
+    second: 1mago_186
+  - first:
+      213: -7993747425340156895
+    second: 1mago_187
+  - first:
+      213: -476144120405581301
+    second: 1mago_188
+  - first:
+      213: -4594703780120553579
+    second: 1mago_189
+  - first:
+      213: 3470796361585872926
+    second: 1mago_190
+  - first:
+      213: -3783228895941523893
+    second: 1mago_191
+  - first:
+      213: 3175724435823937259
+    second: 1mago_192
+  - first:
+      213: -6879623437588159795
+    second: 1mago_193
+  - first:
+      213: 388640590512749469
+    second: 1mago_194
+  - first:
+      213: 291012058443324536
+    second: 1mago_195
+  - first:
+      213: -5959654202135009505
+    second: 1mago_196
+  - first:
+      213: 3254015384297626642
+    second: 1mago_197
+  - first:
+      213: 9126591146855274536
+    second: 1mago_198
+  - first:
+      213: -5696396479678629193
+    second: 1mago_199
+  - first:
+      213: 2148976752313632749
+    second: 1mago_200
+  - first:
+      213: 7535730065816016505
+    second: 1mago_201
+  - first:
+      213: -5906659431324650045
+    second: 1mago_202
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1mago_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 810
+        width: 51
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f619841c155a60800000000000000
+      internalID: 7662061215565674857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_1
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 775
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081751964e54ff540800000000000000
+      internalID: 5043826954996117888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_2
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 779
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0839edbb46b291f70800000000000000
+      internalID: 9158399028883264384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_3
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 770
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ead8f8e2be62ed0800000000000000
+      internalID: -2439003562965094802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_4
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 754
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fabb211a3d0dd7a0800000000000000
+      internalID: -6350905356475188495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_5
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 735
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a08ea3b5f18eb150800000000000000
+      internalID: 5890288254928715941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_6
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 735
+        width: 43
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12f707b1f330e93c0800000000000000
+      internalID: -4351036620415140063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 734
+        width: 41
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a955334bb6395c750800000000000000
+      internalID: 6324623342505776538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_8
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 734
+        width: 42
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c8f78a399819840800000000000000
+      internalID: 5229111909633985593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_9
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 736
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d440ce48b34cd20e0800000000000000
+      internalID: -2292960875349539763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_10
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 736
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef84e7ca936354ce0800000000000000
+      internalID: -1421670486030530306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_11
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 738
+        width: 61
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5abd035ce8c9acc0800000000000000
+      internalID: -3699204701576906148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_12
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 744
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c6d2a0c5d058380800000000000000
+      internalID: -8969748393879573452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_13
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 737
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55b9e7080b6cd8a0800000000000000
+      internalID: -6279026098224646822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_14
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 647
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce6bbd238e884820800000000000000
+      internalID: 2902726653899402946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_15
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 644
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d2d3c77a0cf86d0800000000000000
+      internalID: -2985956202346894023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_16
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 699
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5902c9e6d930d02d0800000000000000
+      internalID: -3310986176346972011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_17
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 700
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb1ca8486582cd80800000000000000
+      internalID: -8231870485937513523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_18
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 703
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa7a3233dd7948000800000000000000
+      internalID: 37321673227347882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_19
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 649
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7526454d4b86abd90800000000000000
+      internalID: -7081232338220981673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_20
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 643
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f01f2e796412f10800000000000000
+      internalID: 2243151707568672606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_21
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 645
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8497637db0c2cb9a0800000000000000
+      internalID: -6216044956311193272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 643
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e55598af6cf0c180800000000000000
+      internalID: -9096993690788473368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_23
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 644
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79fb60785ff888a10800000000000000
+      internalID: 1911936326513901463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_24
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 696
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383f2d32d33048ee0800000000000000
+      internalID: -1259878434627980413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_25
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 644
+        width: 47
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d974a650320df3d0800000000000000
+      internalID: -3171376155963655722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_26
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 644
+        width: 47
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79279a6661f0cad0800000000000000
+      internalID: -2683879955735565953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_27
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 640
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3c9e2073c61cc60800000000000000
+      internalID: 7836663810129249260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_28
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 644
+        width: 43
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c155e2eea2f13480800000000000000
+      internalID: -8921082553899331135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_29
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 644
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc1b64873bae9bc0800000000000000
+      internalID: -3774391182756733730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_30
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 683
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b750015703d057930800000000000000
+      internalID: 4140229934210614651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_31
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 686
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e578ba6891475040800000000000000
+      internalID: 4636246464282523106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_32
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 462
+        width: 54
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35927d88dff426d80800000000000000
+      internalID: -8258950816302945965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_33
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 563
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f447a298fe075c60800000000000000
+      internalID: 7806724939845158133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_34
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 514
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff62056f50a92af0800000000000000
+      internalID: -420628758605434888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_35
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 462
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcabf29783937350800000000000000
+      internalID: 6013312137965579444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_36
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 559
+        width: 48
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26e48b47cc694770800000000000000
+      internalID: 8595520967034594862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_37
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 517
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd71b3f0332345a0800000000000000
+      internalID: -6538343540857930241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_38
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 476
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f253ecb67d645210800000000000000
+      internalID: 1320800947468980984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_39
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 565
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7256809970d1f5e0800000000000000
+      internalID: -1877490349102443910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_40
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 462
+        width: 51
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fbca02717c516f0800000000000000
+      internalID: -714446063721988221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_41
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 461
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fed39cdcf205c2a0800000000000000
+      internalID: -6717959984097534221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 559
+        width: 49
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7251fc884cbd5f40800000000000000
+      internalID: 5718934121618690686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_43
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 448
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d91cc9c0bec7180800000000000000
+      internalID: -9116153106302657236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_44
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 511
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7511dcb4bcf8fd30800000000000000
+      internalID: 4465596883729978749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_45
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 492
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f83249d6e60aa0800000000000000
+      internalID: -6195010416608217269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_46
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 499
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e8ab0eb35df25e0800000000000000
+      internalID: -1932091261968544153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_47
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 456
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02660772430294030800000000000000
+      internalID: 3479347595492484640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_48
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 487
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cbb9509a0ecfc090800000000000000
+      internalID: -8011958667302028352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_49
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 447
+        width: 54
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed89f273366ff8e90800000000000000
+      internalID: -7021122388059252514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_50
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 559
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5318182af15636620800000000000000
+      internalID: 2766165782680404277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_51
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 516
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8f5c81c65931160800000000000000
+      internalID: 6995098937741146295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_52
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 493
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363fd3d40e6461f90800000000000000
+      internalID: -6983316243008851101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_53
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 505
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc86a2172b94570800000000000000
+      internalID: 8451482374850005978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_54
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 455
+        width: 38
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86ce67402b0a9470800000000000000
+      internalID: 8402040288078382733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_55
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 560
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdba841559b8be80800000000000000
+      internalID: -8162570549541028413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_56
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 497
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f47be892cec2720800000000000000
+      internalID: 2822890729686650726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_57
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 463
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb849352548ff130800000000000000
+      internalID: 3602743716044114914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_58
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 453
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d8650d90a65c370800000000000000
+      internalID: 8342190475156295028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_59
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 472
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d3a50c05ae60ec0800000000000000
+      internalID: -3600933219490710249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_60
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 448
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dad193ae1c33fd0800000000000000
+      internalID: -2363332167714624151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_61
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 560
+        width: 42
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b9e87b99e4808b0800000000000000
+      internalID: -5185808548800586886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_62
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 463
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a8001404e002600800000000000000
+      internalID: 441368432613558858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_63
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 452
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d5affcc8175750800000000000000
+      internalID: 6293526273015011026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_64
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 474
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede504ec4b7369930800000000000000
+      internalID: 4149565356362456798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_65
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 450
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d003c539e2ba32860800000000000000
+      internalID: 7504029620658515981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_66
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 481
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6801b68173aecf0800000000000000
+      internalID: -222304653586430287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_67
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 471
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd29e55be5c69d030800000000000000
+      internalID: 3519963737792352989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_68
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 456
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8470d1e0c8d6750800000000000000
+      internalID: 6299845446005639370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_69
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 502
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169d7ab052bd51cd0800000000000000
+      internalID: -2587921458698659487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_70
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 475
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86156b316e54b28d0800000000000000
+      internalID: -2870123483043049112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_71
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 464
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efa9fd5077e59c50800000000000000
+      internalID: 6671492892818255845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_72
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 455
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca2013e95444d7c0800000000000000
+      internalID: -4047535012246967611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_73
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 455
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583f68579f5fe0040800000000000000
+      internalID: 4615897119868777349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_74
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 560
+        width: 41
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc75c0ecb82ad8d20800000000000000
+      internalID: 3282458424764028877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 454
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a850e041a479c80800000000000000
+      internalID: -8316096736921286030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_76
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 455
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b719919029787cc0800000000000000
+      internalID: -3713084711978330183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_77
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 464
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63ef28b063bf9fe0800000000000000
+      internalID: -1180027349359402129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_78
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63fba9f6eda503cd0800000000000000
+      internalID: -2580462675081642186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_79
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 478
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034b34392a8b87810800000000000000
+      internalID: 1763362262510449712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_80
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 439
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18b29194a89bd0a50800000000000000
+      internalID: 6489046641693764481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_81
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 465
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e47c453e7dc62c20800000000000000
+      internalID: 3181456128727610592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_82
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 445
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763c16fd129c05400800000000000000
+      internalID: 310969521607394151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_83
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 482
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1231649c4b157db0800000000000000
+      internalID: -4794896212545162723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_84
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 490
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f960b8832c189fb80800000000000000
+      internalID: -8360508562064341345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_85
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 443
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e5f477457accd90800000000000000
+      internalID: -7076096933285110184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_86
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 462
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c86d8222a5cd010800000000000000
+      internalID: 1214945102243728490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_87
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 478
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c135b662c0122e170800000000000000
+      internalID: 8206157807090357020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_88
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 452
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede25820d7cce1780800000000000000
+      internalID: -8710299792002699554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_89
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 447
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6dacdd7e95793f0800000000000000
+      internalID: -894147148616378665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_90
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 482
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2621f424756760940800000000000000
+      internalID: 5262023331775713890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_91
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 465
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 209778cff77053e00800000000000000
+      internalID: 1023732736575633666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_92
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 463
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce299001cd636960800000000000000
+      internalID: 7594034072382942918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_93
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 455
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbef4e46787628290800000000000000
+      internalID: -7889629765988712772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_94
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 459
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3668346bb48afc770800000000000000
+      internalID: 8633304053826422371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_95
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 451
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bf0293731fb72c0800000000000000
+      internalID: -4432684188732163247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_96
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 457
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c5f1f7966a3ecc0800000000000000
+      internalID: -3682917098224395149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_97
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 562
+        width: 71
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3137423d401f31270800000000000000
+      internalID: 8220178747905831699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_98
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 470
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be6bde234e675cb00800000000000000
+      internalID: 848214827308267243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_99
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 448
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40751823ebce77660800000000000000
+      internalID: 7383630415732496132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_100
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 485
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c08ef4fa06e1430800000000000000
+      internalID: 3755545445349723267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_101
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 467
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66153a047e70abcb0800000000000000
+      internalID: -4847553359107632794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_102
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 434
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be8d97739d5fecf0800000000000000
+      internalID: -220854968769474887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_103
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 491
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738fd2bca888b9730800000000000000
+      internalID: 4006946423171840055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_104
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 560
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87bf702376071c40800000000000000
+      internalID: 5482858162883114894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_105
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 439
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb86040d236cd3c0800000000000000
+      internalID: -4333479696445043725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_106
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 500
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d46a304e12ab5070800000000000000
+      internalID: 8096243005938885849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_107
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 433
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e676ab637b44790800000000000000
+      internalID: -7546705629882651124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_108
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 447
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b37f65bfbf21a50800000000000000
+      internalID: 6490527069908712350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_109
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 485
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7e8c392b8cb3af0800000000000000
+      internalID: -415517871292487721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_110
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 463
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e1e8a152de3cd90800000000000000
+      internalID: -7078553445681193380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_111
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 440
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28ed0817cbac06890800000000000000
+      internalID: -7466745271473348990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_112
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4fb669bcd99d200800000000000000
+      internalID: 205368755749647537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_113
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 490
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e1dd87d63e94310800000000000000
+      internalID: 1389892019339206247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_114
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 455
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2b4c063c7fae050800000000000000
+      internalID: 5830745086098715387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_115
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 472
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1f0cf39dc4966c0800000000000000
+      internalID: -4149701085683977744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_116
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 467
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817440e0742b89120800000000000000
+      internalID: 2420880817959225112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_117
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 444
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d2b0c74067a2fe0800000000000000
+      internalID: -1213027387989873325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_118
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 562
+        width: 62
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d45f69396f2dbf160800000000000000
+      internalID: 7060468797313316173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_119
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 457
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54e647989f40a6d0800000000000000
+      internalID: -2981295436527639460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_120
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 430
+        width: 108
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7cded7e25b615090800000000000000
+      internalID: -8047533055312733061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_121
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 546
+        width: 66
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8166bae7a4ed4a0800000000000000
+      internalID: -6566729298757674780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_122
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 347
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c817df18f8aee80800000000000000
+      internalID: -8148542787307860978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 347
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a0dc40310809680800000000000000
+      internalID: -8750353256807593387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_124
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 345
+        width: 45
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95c91699ed23c2c0800000000000000
+      internalID: -4412632728624052836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_125
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 346
+        width: 75
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc67549e2b27def0800000000000000
+      internalID: -83550589025817346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_126
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 348
+        width: 79
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591d79e73e5fd7b60800000000000000
+      internalID: 7745617291577381269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_127
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 348
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af854f3e953bb6350800000000000000
+      internalID: 6011095326313961722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_128
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 381
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61dd7fb4e2b374720800000000000000
+      internalID: 2830295960854715670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_129
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 356
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8ed464119d5b48e0800000000000000
+      internalID: -1708168755963175282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_130
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 356
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f84934a0ebc28c000800000000000000
+      internalID: 56344190069740687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_131
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 356
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc013d2eb32965920800000000000000
+      internalID: 2978728989458370763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_132
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 356
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5014bf259d02fd0800000000000000
+      internalID: -2368654453570992694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_133
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 356
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f5b755b77fd7cd0800000000000000
+      internalID: -2558616904189386971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_134
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 356
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c11569298f51c460800000000000000
+      internalID: 7260189117007598019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_135
+      rect:
+        serializedVersion: 2
+        x: 1028
+        y: 356
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf054e61979f86260800000000000000
+      internalID: 7091191911765266683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_136
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 355
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a0c31929b6e2710800000000000000
+      internalID: 1670390789047061108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_137
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 355
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3320fbbbeff71610800000000000000
+      internalID: 1592022381234234173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_138
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 360
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 856592fc8adc1acd0800000000000000
+      internalID: -2548529789201197480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_139
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 262
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5462eb152277450800000000000000
+      internalID: 6086371155892389320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_140
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 255
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c624f3ca99e390800000000000000
+      internalID: -7788523914155079340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_141
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 257
+        width: 53
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8ba0b05cf1c810800000000000000
+      internalID: 1783984350907043056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_142
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 257
+        width: 76
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01e064e141a67030800000000000000
+      internalID: 3492155865448898829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_143
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 257
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0234a9b63f3e4cc0800000000000000
+      internalID: -3724970337513491955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_144
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 259
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f498beca94163df0800000000000000
+      internalID: -200950478245686032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_145
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 294
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3bc5232d70b2680800000000000000
+      internalID: -8778914449259187234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_146
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 257
+        width: 40
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba1bc88ab6660c70800000000000000
+      internalID: 8936943461908290231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_147
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 258
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a41f7d428162cd50800000000000000
+      internalID: 6756069603282982053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_148
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 277
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b2cd2552842cd60800000000000000
+      internalID: 7908963220757162762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_149
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 279
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f878867104c8f9320800000000000000
+      internalID: 2566924519522994063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_150
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 158
+        width: 51
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd69eb7061fd090800000000000000
+      internalID: -8007657389923312620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_151
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 158
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ac3e05fb8f1b490800000000000000
+      internalID: -7732125584638883270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_152
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 158
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef7cd6f107181f00800000000000000
+      internalID: 1087644607214026735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_153
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 159
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5a2382c66a05be0800000000000000
+      internalID: -1490508493198547487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_154
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 158
+        width: 78
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f35db9aeb8646f510800000000000000
+      internalID: 1582529885817787711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_155
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 158
+        width: 72
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944a0287b736b2a10800000000000000
+      internalID: 1885710250932216905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_156
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 159
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00551ea6b4048be60800000000000000
+      internalID: 7978197432546710784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_157
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 172
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2187bcb2dc0ec0800000000000000
+      internalID: -3599270294201487800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_158
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 190
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25979358dc1f5d30800000000000000
+      internalID: 4422285074542073134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_159
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 182
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8648f00f98c93dec0800000000000000
+      internalID: -3543316365558447000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_160
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05e475a6983531e0800000000000000
+      internalID: -2218805021737949938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_161
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 175
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b27a07d14740e38b0800000000000000
+      internalID: -5170690425418111189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_162
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 195
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea30496092128f70800000000000000
+      internalID: 9187926601239640813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_163
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 183
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f3698bef442bc30800000000000000
+      internalID: 4373634048939409298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_164
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 188
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2fe2a745a0017f00800000000000000
+      internalID: 1112671292808687406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_165
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 183
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aaba5e7bd8d546d0800000000000000
+      internalID: -3006758738970625369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_166
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 189
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de520b7154739d10800000000000000
+      internalID: 2131174941981302481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_167
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 178
+        width: 63
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dacb194292e533a0800000000000000
+      internalID: -6686188953841972525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_168
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 185
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af105602223581490800000000000000
+      internalID: -7775373350617677318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_169
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 177
+        width: 11
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795e272fa05fc3170800000000000000
+      internalID: 8159666052254590359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_170
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 176
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6891a580aaf1901d0800000000000000
+      internalID: -3384138829847193210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_171
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 176
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e115a36869a1a10800000000000000
+      internalID: 1880981297628782191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_172
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 177
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a4c1a3e3618dd40800000000000000
+      internalID: 5609257792408668748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_173
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 175
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7d05b0fb3355fbb0800000000000000
+      internalID: -4902921102416343686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_174
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 175
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279fe05784c15ec90800000000000000
+      internalID: -7141270536598914702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_175
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 175
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50592a7fe2c5b030800000000000000
+      internalID: 3509925818407669852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_176
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 177
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ed446e6055a1420800000000000000
+      internalID: 2601485222881320503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_177
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 174
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34bdb4a43996f0ac0800000000000000
+      internalID: -3886771872069854397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_178
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 179
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314339be8b072d450800000000000000
+      internalID: 6112071583823770643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_179
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 171
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c470543188a74b0800000000000000
+      internalID: -5441887583379960680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_180
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 46
+        width: 47
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a1107fe1a10d3d0800000000000000
+      internalID: -3184016216255555072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_181
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 46
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606ca5c91b89ba120800000000000000
+      internalID: 2426200712868972038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_182
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 46
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6e451372eacf94e0800000000000000
+      internalID: -1972635037822792085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_183
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 40
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d5cf869362a0e10800000000000000
+      internalID: 2164584598921305414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_184
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 46
+        width: 59
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3dc33e8d15cb89e0800000000000000
+      internalID: -1617982910379078337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_185
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 49
+        width: 56
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ba628b8985a6730800000000000000
+      internalID: 3993101432565181263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_186
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 46
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ca8240d39c4220800000000000000
+      internalID: 2471512818198432245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_187
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 54
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1241860c111801190800000000000000
+      internalID: -7993747425340156895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_188
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 55
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02a559f1756469f0800000000000000
+      internalID: -476144120405581301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_189
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 54
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59715c971455c30c0800000000000000
+      internalID: -4594703780120553579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_190
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 53
+        width: 36
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e105b0cd6eeba2030800000000000000
+      internalID: 3470796361585872926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_191
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 83
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4689611d554f7bc0800000000000000
+      internalID: -3783228895941523893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_192
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 88
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be640d57c80721c20800000000000000
+      internalID: 3175724435823937259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_193
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 53
+        width: 38
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc22b1eeeeaa680a0800000000000000
+      internalID: -6879623437588159795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_194
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 52
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b7fc6de8ab46500800000000000000
+      internalID: 388640590512749469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_195
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 56
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c9ed0ece1e90400800000000000000
+      internalID: 291012058443324536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_196
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 65
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f172499241e0b4da0800000000000000
+      internalID: -5959654202135009505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_197
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 55
+        width: 83
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c57b260c5982d20800000000000000
+      internalID: 3254015384297626642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_198
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 50
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82898861b4a28ae70800000000000000
+      internalID: 9126591146855274536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_199
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 39
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba38f0259552f0b0800000000000000
+      internalID: -5696396479678629193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_200
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 42
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de70a3078f2b2dd10800000000000000
+      internalID: 2148976752313632749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1mago_201
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 36
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976d130a19a449860800000000000000
+      internalID: 7535730065816016505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1733029990930539568}
   - component: {fileID: 7646990046124955251}
   - component: {fileID: 7192116517469531055}
+  - component: {fileID: 5553375782021753317}
   m_Layer: 0
   m_Name: moeda
   m_TagString: Untagged
@@ -72,14 +73,14 @@ SpriteRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
-  m_SortingOrder: 2
-  m_Sprite: {fileID: -8305803365058092108, guid: 0582a52bbed9feb4583f532386e9911f,
+  m_SortingOrder: 3
+  m_Sprite: {fileID: 3410510333891505588, guid: 27fbd349247c8dc46a3112ada3a53fc7,
     type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 1.0200857, y: 1.0100001}
+  m_Size: {x: 0.64, y: 0.64}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -113,6 +114,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 660e4e79aeb926d478dda4bca0babd02, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _manageCenario2: {fileID: 0}
 --- !u!50 &7192116517469531055
 Rigidbody2D:
   serializedVersion: 4
@@ -134,3 +136,22 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!95 &5553375782021753317
+Animator:
+  serializedVersion: 3
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4832927604710712782}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: c48e07d14dca3f04cbc5c80013789300, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorControllerStateOnDisable: 0
