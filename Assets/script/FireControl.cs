@@ -17,13 +17,13 @@ public class FireControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetMouseButton(0) && _manageCenario2.Player.GetComponent<UnityStandardAssets._2D.Platformer2DUserControl>().enabled)
+        if (Input.GetKey(KeyCode.W) && _manageCenario2.Player.GetComponent<UnityStandardAssets._2D.Platformer2DUserControl>().enabled)
         {
           
             Fire();
         }
     }
-    private void Fire() {
+    public void Fire() {
         GameObject obj = ObjectPooler.current.GetPooledObject();
         if (obj != null)
         {

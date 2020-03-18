@@ -109,6 +109,16 @@ namespace UnityStandardAssets._2D
             }
         }
 
+        public void Pular()
+        {
+            if (m_Grounded && m_Anim.GetBool("Ground")){
+                m_Grounded = false;
+                m_Anim.SetBool("Ground", false);
+                m_Rigidbody2D.AddForce(new Vector2(0f, m_JumpForce));
+                checkpulo = true;
+            } 
+        }
+
 
         private void Flip()
         {
