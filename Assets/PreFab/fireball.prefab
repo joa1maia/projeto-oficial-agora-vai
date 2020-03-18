@@ -93,7 +93,7 @@ Rigidbody2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 5179123588122060080}
-  m_BodyType: 0
+  m_BodyType: 1
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
@@ -118,8 +118,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c04de8d79c2cd6a45b38c61ed79a39ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projetcSpeed: 20.75
-  speedDisable: 0.75
+  projetcSpeed: 21.22
+  speedDisable: 1
 --- !u!61 &1250711425188615904
 BoxCollider2D:
   m_ObjectHideFlags: 0

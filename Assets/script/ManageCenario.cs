@@ -35,8 +35,11 @@ public class ManageCenario : MonoBehaviour
     public AudioSource somPassagemLevel;
     public AudioSource somPegarintem;
     public AudioSource somTeletranpornte;
+    public AudioSource somContador;
+    public AudioSource somGo;
 
     public UnityStandardAssets._2D.PlatformerCharacter2D UnityStandardAssets2d;
+
 
 
 

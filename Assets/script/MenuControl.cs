@@ -25,6 +25,7 @@ public class MenuControl : MonoBehaviour
     public ControlInimigo ControlInimigo2;
     public GameObject panelLevel;
     public Text textLevel;
+    public Text contador;
 
 
     void Start()
@@ -45,7 +46,9 @@ public class MenuControl : MonoBehaviour
         menuChance[menuChance.Length-1].gameObject.SetActive(false);
         btMenu.SetActive(false);
         panelLevel.transform.localScale = new Vector3(0, 0, 0);
-       
+        contador.transform.localScale = new Vector3(0, 0, 0);
+
+
     }
 
     // Update is called once per frame
@@ -107,7 +110,6 @@ public class MenuControl : MonoBehaviour
 
             if (!gameOver)
             {
-                
                 _manageCenario2.somPanelVoltarGame.Play();
                 for (int i = 0; i < menuChance.Length; i++)
                 {
@@ -160,10 +162,39 @@ public class MenuControl : MonoBehaviour
                 menuChance[i].transform.DOScale(0, .2f);
             }
             backgroundMenu.GetComponent<Image>().DOFade(0f, 0.2f);
-            yield return new WaitForSeconds(.20f);
+            yield return new WaitForSeconds(.5f);
           
             _manageCenario2.Player.transform.position = posresp.position;
-            yield return new WaitForSeconds(.20f);
+            yield return new WaitForSeconds(.8f);
+            contador.text = "" + 3;
+            contador.transform.DOScale(1,.2f);
+            _manageCenario2.somContador.Play();
+            yield return new WaitForSeconds(.2f);
+            contador.transform.DOScale(0, .2f);
+
+            yield return new WaitForSeconds(.8f);
+            contador.text = "" + 2;
+            contador.transform.DOScale(1, .2f);
+            _manageCenario2.somContador.Play();
+            yield return new WaitForSeconds(.2f);
+            contador.transform.DOScale(0, .2f);
+
+            yield return new WaitForSeconds(.8f);
+            contador.text = "" + 1;
+            contador.transform.DOScale(1, .2f);
+            _manageCenario2.somContador.Play();
+            yield return new WaitForSeconds(.2f);
+            contador.transform.DOScale(0, .2f);
+
+            yield return new WaitForSeconds(.5f);
+            contador.text = "Go!";
+            contador.transform.DOScale(1, .2f);
+            _manageCenario2.somGo.Play();
+            yield return new WaitForSeconds(.2f);
+            contador.transform.DOScale(0, .2f);
+            contador.transform.localScale = new Vector3(0, 0, 0);
+            yield return new WaitForSeconds(.2f);
+
             _manageCenario2.Player.GetComponent<UnityStandardAssets._2D.Platformer2DUserControl>().enabled = true;
             _manageCenario2.Player.GetComponent<UnityStandardAssets._2D.PlatformerCharacter2D>().enabled = true;
             if (ControlInimigo2 != null)
